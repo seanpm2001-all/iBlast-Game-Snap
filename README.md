@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://avatars1.githubusercontent.com/u/29598503?v=3&s=256" alt="iBlast game (Ubuntu snap edition)">
   <br />
-  [Project]
+  iBlsst game (Ubuntu snap edition)
 </h1>
 
 <p align="center"><b>This is the snap for iBlast</b>, <i>“The free and open source recreation of iBlast Moki 1 and 2 by Godzilab.”</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
